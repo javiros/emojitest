@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "javiros-emoji-cloud": "2.0.0",
+    "javiros-emoji-cloud": "2.0.1",
     "wordcloud": "^1.1.0"
   }
 }
